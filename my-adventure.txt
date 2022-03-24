@@ -1,1 +1,8 @@
 Goals 2022
+  ^ Struktur data
+  ^ Time complexity sorting
+  ^ Sorting dasar
+
+Project
+  - Personal blogs
+  - UI/UX
